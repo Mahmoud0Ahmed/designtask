@@ -1,0 +1,189 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.parent{
+    background-image: url(blue_bg606.png);
+}
+.nav{
+    display: flex;   
+}
+.logo{
+    width: 100px;
+    margin: 40px 0 0 70px;
+}
+.a-link{
+    margin-top: 55px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin: 0 20px;
+}
+button{
+    background-color: white;
+    border: 2px solid rgb(200, 200, 200);
+    border-radius:  30px;
+    margin: 55px 0 0 1030px;
+    padding: 5px 25px;
+}
+.sec1{
+    display: flex;  
+}
+.landing{
+    width: 900px;
+    margin: -90px 0 0 0;
+}
+.sec1 h1{
+    margin: 200px 0 0 100px;
+    font-size: 73px;
+}
+span{
+    color: purple;
+}
+.sec1 p{
+    font-size: 40px;
+    margin-left: 105px;
+    max-width: 80%;
+    opacity: .5;
+}
+.clouds{ 
+    position: absolute;
+    top: 560px;
+    right: 270px;
+}
+.clouds1{ 
+    position: absolute;
+    top: 710px;
+    right: 390px;
+    opacity: .5;
+}
+.man{
+    width: 350px;
+    position: absolute;
+    top: 90px;
+    right: 320px;
+}
+.wave{
+    width: 80%;
+    margin: -210px 100px 0 0;
+}
+.second{
+    width: 1300px;
+    margin-left: 400px;
+}
+.Delivery{
+    margin: -590px 0 0 270px;
+}
+.h3{
+    font-size: 25px;
+    margin: 10px;  
+}
+.p3{
+    width: 385px;
+    font-size: 20px;
+    text-align: center;
+    margin-left: -65px;
+}
+.Discounts-h3{
+    font-size: 25px;
+    margin: 10px 90px; 
+}
+.Discounts-p{
+    width: 385px;
+    font-size: 20px;
+    text-align: center;
+    margin-left: -30px;
+}
+.Tracking{
+    margin: -90px 0 0 865px;
+}
+.Discounts{
+    margin: 70px 0 0 1310px;
+}
+.KUDZOKA{
+    margin: -330px 0 0 200px;
+}
+.KUDZOKA-p{
+    font-size: 20px;
+    color: white;
+    margin: -270px 0 0 120px;
+}
+.KUDZOKA-h3{
+    font-size: 50px;
+    margin-left: 115px;
+    color: white;
+}
+.img-man{
+    margin: 500px 0 0 370px;
+}
+.Round{
+    text-align: center;
+    margin: -400px 0 0 80px;
+}
+.Round-h3{
+    font-size: 25px;
+    margin-top: -40px;
+    margin-bottom: 40px; 
+}
+.Round-p{
+    width: 385px;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 720px;
+}
+.img-man2{
+    margin: -420px 0 0 1400px;
+}
+.mangirl{
+    width: 900px;
+    position: absolute;
+    top: 2795px;
+    right: 110px;
+}
+.Apple{
+    display: flex;
+    position: absolute;
+    top: 3170px;
+    left: 130px;
+    background-color: white;
+    padding: 10px 100px 10px 10px;
+    margin-right: 10px;
+    border-radius: 8px;
+}
+.apple{
+    position: absolute;
+    top: 3189px;
+    left: 173px;
+    font-size: 15px;
+}
+.Play{
+    position: absolute;
+    top: 3170px;
+    left: 300px;
+    background-color: white;
+    padding: 10px 100px 10px 10px;
+    border-radius: 8px;
+}
+.play{
+    position: absolute;
+    top: 3189px;
+    left: 350px;
+    font-size: 15px;
+}
+.icon-sucial-media{
+    position: absolute;
+    top: 3260px;
+    left: 110px;
+}
+.link{
+    position: absolute;
+    top: 3330px;
+    left: 110px;
+} 
+.link a{
+    color: white;
+}
